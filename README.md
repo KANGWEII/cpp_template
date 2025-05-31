@@ -1,7 +1,8 @@
 # C++ Template
 
 ### 📌 Notes
-For workflow release tag to work, update the release workflow permissions, go to Repo → Settings → Actions → General and change the workflow permissions from "Read" to "Read and write."
+- For workflow release tag to work, update the release workflow permissions, go to Repo → Settings → Actions → General and change the workflow permissions from "Read" to "Read and write."
+- CMake Guide ([Link](https://cliutils.gitlab.io/modern-cmake/README.html))
 
 ## Description
 
